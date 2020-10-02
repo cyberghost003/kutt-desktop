@@ -23,7 +23,7 @@
 
 - Generate an API Key from <a href="https://kutt.it">`https://kutt.it/`</a> after signing up. (Settings page)
 
-  <img width="400" src="https://i.imgur.com/qQwqeH5.png" />
+  <img width="500" src="https://i.imgur.com/qQwqeH5.png" />
 
 - In order to use this app you need the latest Java Run Time Enviorment which is available for all platforms. Download it from <a href="https://www.oracle.com">`https://oracle.com/`</a>
 - After installing the JRE simply run the executable jar file
